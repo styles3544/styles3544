@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=styles3544&label=Profile%20views&color=0e75b6&style=flat" alt="styles3544" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, MongoDB, Javascript, Graphic Designing, Computer Aided Design (CAD), Ansys**
+- 🌱 I’m currently learning **Machine Learning, Javascript, Computer Aided Design (CAD), Ansys**
 
 - 👨‍💻 All of my CAD projects are available at [https://sites.google.com/view/piyushkumarmd/portfolio](https://sites.google.com/view/piyushkumarmd/portfolio)
 
