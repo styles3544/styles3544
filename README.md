@@ -8,6 +8,9 @@
 
 - 🌱 I’m currently learning **Machine Learning, Computer Aided Design (CAD)**
 
+- GFG Articles 
+  1. [Building Space Invaders Using PyGame – Python](https://www.geeksforgeeks.org/building-space-invaders-using-pygame-python/) 
+
 - 👨‍💻 All of my CAD projects are available at [https://sites.google.com/view/piyushkumarmd/portfolio](https://sites.google.com/view/piyushkumarmd/portfolio)
 
 - ⚡ Fun fact **I bore people.**
