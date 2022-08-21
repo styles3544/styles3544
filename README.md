@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=styles3544&label=Profile%20views&color=0e75b6&style=flat" alt="styles3544" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Computer Aided Design (CAD)**
+- 🌱 I’m currently exploring **Machine Learning, Web Dev Technologies**
 
 - GFG Articles 
   1. [Building Space Invaders Using PyGame – Python](https://www.geeksforgeeks.org/building-space-invaders-using-pygame-python/) 
