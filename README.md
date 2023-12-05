@@ -9,7 +9,9 @@
 - 🌱 I’m currently exploring **Machine Learning, Web Dev Technologies**
 
 - GFG Articles 
-  1. [Building Space Invaders Using PyGame – Python](https://www.geeksforgeeks.org/building-space-invaders-using-pygame-python/) 
+  1. [Building Space Invaders Using PyGame – Python](https://www.geeksforgeeks.org/building-space-invaders-using-pygame-python/)
+  2. [Capturing Key Events with OpenCV](https://www.geeksforgeeks.org/saving-key-event-video-clips-with-opencv/)
+  3. [Image Inpainting using OpenCV](https://www.geeksforgeeks.org/image-inpainting-using-opencv/)
 
 - 👨‍💻 All of my CAD projects are available at [https://sites.google.com/view/piyushkumarmd/portfolio](https://sites.google.com/view/piyushkumarmd/portfolio)
 
